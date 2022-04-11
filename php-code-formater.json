@@ -1,8 +1,5 @@
 {
   "php.validate.enable": true,
-  "workbench.iconTheme": "material-icon-theme",
-  "path-autocomplete.extensionOnImport": true,
-  "window.zoomLevel": 1,
   "php.validate.executablePath": "C:/xampp/php/php.exe",
   "editor.formatOnSave": false,
   "[php]": {
@@ -16,9 +13,5 @@
     "SpaceAroundParentheses",
     "ShortArray",
 
-  ],
-  "[jsonc]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "workbench.editor.enablePreview": false
+  ]
 }
